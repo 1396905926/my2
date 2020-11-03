@@ -1,1 +1,22 @@
-[{"outputType":{"type":"APK"},"apkData":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0.1","enabled":true,"outputFile":"app-release.apk","fullName":"release","baseName":"release"},"path":"app-release.apk","properties":{}}]
+{
+       
+    "data":{
+        "cookie":"1",
+        "versionCode":1,
+        "versionName":"1.0.1",
+        "showad":true,
+        "ad":"2",
+        "ytshow":true,
+        "Random":3,
+        "updateInfo":"",
+        "url":"",
+        "update":false,
+        "showU3d":true,
+        "forceUpdate":false
+    },
+    "path":"app-debug.apk",
+    "another":{
+
+    }
+   
+}
