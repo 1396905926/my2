@@ -12,7 +12,8 @@
         "update":false,
         "showU3d":true,
         "forceUpdate":false,
-        "tube":"1"
+        "tube":"1",
+        "isMyDownload":true
     },
     "path":"app-debug.apk",
     "another":{
