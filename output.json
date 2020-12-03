@@ -14,7 +14,8 @@
         "forceUpdate":false,
         "tube":"1",
         "isMyDownload":true,
-        "vk":1
+        "vk":1,
+        "isOnStore":true
     },
     "path":"app-debug.apk",
     "another":{
