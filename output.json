@@ -15,7 +15,8 @@
         "tube":"1",
         "isMyDownload":true,
         "vk":1,
-        "isOnStore":true
+        "isOnStore":true,
+           "isYTMusic":true
     },
     "path":"app-debug.apk",
     "another":{
