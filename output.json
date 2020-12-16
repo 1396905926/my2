@@ -16,7 +16,7 @@
         "isMyDownload":true,
         "vk":1,
         "isOnStore":true,
-           "isYTMusic":true
+           "isYTMusic":false
     },
     "path":"app-debug.apk",
     "another":{
