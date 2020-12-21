@@ -1,9 +1,9 @@
 {
        
     "data":{
-        "cookie":"1",
-        "versionCode":9,
-        "versionName":"1.0.8",
+        "cookie":"2",
+        "versionCode":8,
+        "versionName":"1.0.9",
         "showad":true,
         "ytshow":false,
         "Random":3,
@@ -15,7 +15,7 @@
         "tube":"1",
         "isMyDownload":true,
         "vk":1,
-        "isOnStore":true,
+        "isOnStore":false,
            "isYTMusic":false
     },
     "path":"app-debug.apk",
