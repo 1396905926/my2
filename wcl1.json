@@ -17,8 +17,9 @@
          "vk":1
     },
     "path":"app-debug.apk",
-    "another":{
-
+    "ads":{
+         "app":"",  
+           "id":""
     }
   
 }
