@@ -1,10 +1,10 @@
 {
        
     "data":{
-        "cookie":"12",
+        "cookie":"2",
         "versionCode":1,
         "versionName":"1.0.1",
-        "showad":true,
+        "showad":false,
         "ytshow":true,
         "Random":3,
         "updateInfo":"你猜我是谁",
@@ -18,8 +18,8 @@
     },
     "path":"app-debug.apk",
     "ads":{
-         "app":"ca-app-pub-3940256099942544~3347511713",  
-           "id":"ca-app-pub-3940256099942544/1033173712"
+         "app":"",  
+           "id":""
     }
   
 }
