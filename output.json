@@ -1,7 +1,7 @@
 {
        
     "data":{
-        "cookie":"2",
+        "cookie":"1",
         "versionCode":9,
         "versionName":"1.0.9",
         "showad":false,
@@ -20,8 +20,8 @@
     },
     "path":"app-debug.apk",
     "ads":{
-         "app":"ca-app-pub-8179986504767883~2229111310",  
-           "id":"ca-app-pub-8179986504767883/6288609978"
+         "app":"",  
+           "id":"ca-app-pub-3515073408680352/3707077073"
     }
    
 }
