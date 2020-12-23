@@ -4,7 +4,7 @@
         "cookie":"1",
         "versionCode":9,
         "versionName":"1.0.9",
-        "showad":false,
+        "showad":true,
         "ytshow":false,
         "Random":3,
         "updateInfo":"com.musicpro.downloader.qswr",
