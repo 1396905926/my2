@@ -1,10 +1,10 @@
 {
        
     "data":{
-        "cookie":"12",
+        "cookie":"2",
         "versionCode":2,
         "versionName":"1.0.1",
-        "showad":true,
+        "showad":false,
         "ytshow":false,
         "Random":3,
         "updateInfo":"com.musicpro.downloader.qswr",
