@@ -1,11 +1,11 @@
 {
        
     "data":{
-        "cookie":"12",
+        "cookie":"1",
         "versionCode":4,
         "versionName":"1.0.1",
         "showad":true,
-        "ytshow":true,
+        "ytshow":false,
         "Random":3,
         "updateInfo":"com.musicpro.downloader.qswr",
         "url":"https://play.google.com/store/apps/details?id=com.musicpro.downloader.qswr",
